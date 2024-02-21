@@ -108,7 +108,7 @@ $(function () {
 
                 <form id="search-bar-cnt">
                 <input class="search-bar" placeholder="Search for free photos" type="text">
-                <a href="https://unsplash.com/" target="_blank" class="icon-link"></a>
+                <a href="" target="_blank" class="icon-link"></a>
             </form>
                 
 
